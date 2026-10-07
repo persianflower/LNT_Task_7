@@ -11,6 +11,8 @@ To develop a professional deep learning application with multiple pages and inte
 
 [Application](https://task7lnt.streamlit.app/)
 
+(Incase the application does not run, the workflow can be observed here: [Output Images](https://github.com/persianflower/LNT_Task_7/tree/main/streamlit_output)
+
 • Visualizations.
 
 The following images are visualized in the streamlit application:
