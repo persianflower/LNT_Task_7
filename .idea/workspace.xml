@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8186f2f2-bd67-440a-8a80-736cc24cfb83" name="Changes" comment="" />
+    <list default="true" id="8186f2f2-bd67-440a-8a80-736cc24cfb83" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/confidence.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/confidence.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/1_Predict your input.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/1_Predict your input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/3_Model metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/3_Model metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumb.png" beforeDir="false" afterPath="$PROJECT_DIR$/thumb.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "persianflower"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/persianflower/LNT_Task_7.git",
+    "accountId": "78a83909-b82e-4283-a61d-3b3751ee1e8b"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -70,7 +88,7 @@
       <workItem from="1791299269380" duration="691000" />
       <workItem from="1791299966798" duration="2369000" />
       <workItem from="1791354931695" duration="9528000" />
-      <workItem from="1791388218992" duration="5603000" />
+      <workItem from="1791388218992" duration="7570000" />
     </task>
     <servers />
   </component>
